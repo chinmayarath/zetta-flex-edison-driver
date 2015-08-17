@@ -1,8 +1,6 @@
 # Flex sensor driver for Intel Edison board
 Zetta driver for flex sensor on an intel edision board
 
-This is a LED device for use in the Zetta platform on Edison
-
 ##Install
 
 `npm install zetta-flex-edison-driver`
